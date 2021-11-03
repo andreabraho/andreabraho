@@ -1,1 +1,2 @@
-string s1="ciao amici";
+string s1="stringa veramente brutta";
+
